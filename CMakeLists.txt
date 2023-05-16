@@ -3,4 +3,4 @@ project(Problem_Set)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Problem_Set 7-8.cpp)
+add_executable(Problem_Set 7-17.cpp)
